@@ -1,0 +1,26 @@
+{
+  "name": "peercampus",
+  "version": "1.0.0",
+  "description": "Here’s a concise, structured summary of your edtech app idea designed for clarity and interoperability with AI agents:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshrm/PeerCampus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshrm/PeerCampus/issues"
+  },
+  "homepage": "https://github.com/priyanshrm/PeerCampus#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
